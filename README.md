@@ -1,6 +1,6 @@
 # CodepointForEntityMacro
 
-This macro is like the [CodepointMacro](https://github.com/stefanspringer1/CodepointMacro) but for named character entities (as defined in [https://github.com/stefanspringer1/SwiftUtilities]()).
+This macro is like the [CodepointMacro](https://github.com/stefanspringer1/CodepointMacro) but for named character entities (as defined in [SwiftUtilities](https://github.com/stefanspringer1/SwiftUtilities)).
 
 In the following exmaple, the macro is expanded to `0x222B`:
 
