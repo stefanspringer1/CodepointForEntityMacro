@@ -1,6 +1,6 @@
 # CodepointForEntityMacro
 
-This macro is like the [CodepointMacro](https://github.com/stefanspringer1/CodepointMacro) but for named character entities (as defined in [SwiftUtilities](https://github.com/stefanspringer1/SwiftUtilities)).
+This macro is like the [CodepointMacro](https://github.com/stefanspringer1/CodepointMacro) but for named character references (entities) as defined in [SwiftUtilities](https://github.com/stefanspringer1/SwiftUtilities) (which should follow [the W3C definitions](https://dev.w3.org/html5/spec-LC/named-character-references.html)).
 
 In the following exmaple, the macro is expanded to `0x222B`:
 
